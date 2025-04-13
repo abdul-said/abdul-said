@@ -42,7 +42,7 @@ Here are a few projects from my DevOps journey:
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/abdulrahman-said-4557a3236) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-said-4557a3236) 
 - ✉️ Email: abdul-said@outlook.com
 
 ---
